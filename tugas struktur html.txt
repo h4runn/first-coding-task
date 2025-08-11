@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- ======================================================= -->
+    <!-- BAGIAN HEAD: Informasi untuk Browser                      -->
+    <!-- ======================================================= -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- TUGAS 1: Ganti judul di bawah ini dengan nama lengkapmu -->
+    <title>Profil Digital - Harun</title>
+</head>
+<body>
+
+    <!-- ======================================================= -->
+    <!-- BAGIAN HEADER: Judul Utama dan Perkenalan Singkat       -->
+    <!-- ======================================================= -->
+    <header style="text-align: center;">
+        <!-- TUGAS 2: Isi dengan nama lengkapmu -->
+         <img src="image harun jpg..jpeg" alt="foto profil" width="120">       <h1><!-- -->Harun</h1>
+
+        <!-- TUGAS 3: Isi dengan jabatan atau tagline singkat (Contoh: Siswa, Calon Web Developer) -->
+        <p><!-- -->Siswa,Calon Pengembang Back End Developer</p>
+    </header>
+
+    <hr> <!-- Ini adalah tag untuk membuat garis horizontal, sebagai pemisah -->
+
+    <!-- ======================================================= -->
+    <!-- BAGIAN MAIN: Konten Utama Halaman Profil                -->
+    <!-- ======================================================= -->
+    <main>
+
+        <!-- === Bagian Tentang Saya === -->
+        <section>
+            <h2>Halo! Saya Harun, seorang siswa yang sedang belajar di dunia pemograman web dengan fokus pada backend development.
+                Saya senang mempelajari bagaimana server database, dan logika program bekerja di balik layar sbuah website.
+                Bagi saya, mebuat sistem yang rapi dan efisien adalah tantangan yang seru. Ke depannya,
+                saya ingin menjadi seorang backend developer yang bisa menciptakan teknologi bermanfaat dan dapat diandalkan.
+            </h2>
+
+            <!-- TUGAS 4:
+                1. Letakkan satu foto dirimu di dalam folder 'images'.
+                2. Ganti 'nama-file-gambar.jpg' dengan nama file fotomu yang sebenarnya.
+                3. Ganti teks 'alt' dengan deskripsi fotomu.
+            -->
+            
+
+            <!-- TUGAS 5: Tulis satu atau dua paragraf singkat tentang dirimu, minat, atau cita-citamu di sini. -->
+            <p>
+                <!-- TULIS PARAGRAF TENTANG DIRIMU DI SINI -->
+            </p>
+        </section>
+
+        <hr>
+
+        <!-- === Bagian Skill / Keahlian === -->
+        <!-- Menggunakan <ol> (Ordered List) karena kita ingin menampilkannya sebagai daftar bernomor (menunjukkan urutan/prioritas) -->
+        <section>
+            <h2>Skill Unggulan</h2>
+            <ol>
+                <!-- TUGAS 6: Isi 3 skill atau lebih yang kamu miliki -->
+                <li><!-- Isi dengan skill #1 -->HTML&CSS</li>
+                <li><!-- Isi dengan skill #2 -->CANVA&FIGMA</li>
+                <li><!-- Isi dengan skill #3 -->CAPCUT</li>
+            </ol>
+        </section>
+
+        <hr>
+
+        <!-- === Bagian Riwayat Pendidikan === -->
+        <!-- Menggunakan <table> untuk menampilkan data yang terstruktur rapi -->
+        <section>
+            <h2>Riwayat Pendidikan</h2>
+            <table>
+                <!-- Baris untuk Judul Kolom -->
+                <tr>
+                    <th>SMA IT HSI</th>
+                    <th>BOARDING SCHOOL</th>
+                    <th>2024-2025</th>
+                </tr>
+
+                <!-- TUGAS 7: Isi baris-baris di bawah ini dengan data riwayat pendidikanmu -->
+
+                <!-- Baris untuk data SMA -->
+                <tr>
+                    <td><!-- Contoh: SMA -->SMA</td>
+                    <td><!-- Contoh: SMA IT Daarul Fikri -->SMA IT HSI BOARDING SCHOOL</td>
+                    <td><!-- Contoh: 2024 - Sekarang -->2024-2025</td>
+                </tr>
+
+                <!-- Baris untuk data SMP -->
+                <tr>
+                    <td><!-- Isi Jenjang SMP -->SMP</td>
+                    <td><!-- Isi Nama SMP -->SMPI CAHAYA SUNNAH</td>
+                    <td><!-- Isi Tahun Lulus SMP -->2021-2023</td>
+                </tr>
+
+            </table>
+        </section>
+
+    </main>
+
+    <hr>
+
+    <!-- ======================================================= -->
+    <!-- BAGIAN FOOTER: Link Kontak dan Copyright                -->
+    <!-- ======================================================= -->
+    <footer>
+        <h2>Hubungi Saya</h2>
+
+        <!-- Menggunakan <ul> (Unordered List) karena urutan sosial media tidak penting -->
+        <ul>
+            <!-- TUGAS 8: Ganti '#' dengan link sosial media dan 'Nama Sosmed' dengan namanya (misal: GitHub, Instagram) -->
+            <li><a href="https://www.instagram.com/siangbelajarr/">Instagram</a></li>
+            <li><a href="https://github.com/h4runn">Github</a></li>
+            <li><a href="#">Nama Sosmed 3</a></li>
+        </ul>
+
+        <!-- TUGAS 9: Ganti [Nama Kamu] dengan namamu -->
+        <p>&copy; 2025 [Harun]. Dibuat dengan penuh semangat.</p>
+    </footer>
+
+</body>
+</html>
