@@ -1,0 +1,18 @@
+/*
+   Background Color :       #3a4a58
+   Title Color :            #996633
+   Text Color :             #666666
+   Text Dark Color :        #333333
+   Table Heading Color :    #C4CDD6
+   Table Alternatif Color : e5e8ed
+*/
+
+body {
+    background-color: #02120a;
+    color: #8c8c8c;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-family: 17px;
+    font font-weight: 400;
+    padding: 15px;
+    margin: 0;
+}
